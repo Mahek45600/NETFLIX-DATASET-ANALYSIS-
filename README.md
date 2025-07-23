@@ -196,5 +196,5 @@ Isolates long-running TV Shows with more than two seasons.
 * Genre trends like Dramas or Kids content.
 * How much time a user might spend on an average movie.
 
-**Email**: *[mahrk456shrivastava@gmail.com]*
-**GitHub**: [Mahek45600]
+**Email**: *mahek456shrivastava@gmail.com*
+**GitHub**: https://github.com/Mahek45600 
